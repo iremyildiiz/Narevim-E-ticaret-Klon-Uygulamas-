@@ -49,6 +49,7 @@ Nar Evim, kullanıcı dostu arayüzü ve güçlü veri yönetimi ile ev dekorasy
 ![Screenshot_1725746028](https://github.com/user-attachments/assets/27cd2b92-3a85-4b9a-a045-9a993a1b42ff)
 ![anakategorisayfası](https://github.com/user-attachments/assets/abdf9c79-8215-4b06-85a7-4b11e118c61f)
 ![Screenshot_1725460561](https://github.com/user-attachments/assets/508f4d8e-34a9-4f5b-826d-9e1d6796b452)
+![giriş yap ekranı](https://github.com/user-attachments/assets/dcdfde55-7dd9-4b42-951f-f8a39a0fb6ed)
 ![05 09](https://github.com/user-attachments/assets/d48656e3-4fce-4858-8c4a-fe26e8319763)
 ![kullanıcı bilgilerim](https://github.com/user-attachments/assets/2a993eb2-19ec-47a4-a54a-5e8f56a8ceb0)
 ![04:05](https://github.com/user-attachments/assets/e54ecb99-8a9c-41d0-a0c6-e98ffdf8c889)
